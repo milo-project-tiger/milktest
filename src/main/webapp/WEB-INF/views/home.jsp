@@ -12,5 +12,7 @@ ${controllerMessage}<br/>
 <br/>
 <br/>
 <a href="person/list">Go to the person list</a>
+   <script> alert(hello!);  </script>
+   
 </body>
 </html>

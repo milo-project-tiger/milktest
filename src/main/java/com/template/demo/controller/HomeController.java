@@ -27,7 +27,7 @@ public class HomeController extends BaseController implements Serializable {
 		logger.info("Welcome home!");
 		model.addAttribute("controllerMessage",
 				"This is the message from the controller!");
-		return "nothin";
+		return "home";
 	}	
 
 }
