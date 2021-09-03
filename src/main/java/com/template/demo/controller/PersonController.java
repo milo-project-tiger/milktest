@@ -60,7 +60,6 @@ public class PersonController extends BaseController implements Serializable {
 		mav.addObject("people",people);
 		mav.setViewName("list");
 		return mav;
-		
 	}
 
 }

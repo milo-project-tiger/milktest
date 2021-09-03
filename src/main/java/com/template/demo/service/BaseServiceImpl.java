@@ -169,6 +169,5 @@ public class BaseServiceImpl<T extends BaseEntity> implements BaseService<T> {
         }
         
         return entity;
-    }
-    
+    }    
 }
